@@ -1,0 +1,58 @@
+<html>
+<head>
+<title>ip</title>
+<head>
+<style> 
+body
+{
+background-image:url("s3.jpg");
+background-repeat:no-repeat;
+background-size:cover;
+background-attachment:fixed;
+}
+marquee{
+font-size: 50px;
+}
+h1:hover{
+background-color:pink;
+}
+h2
+{
+font-family:Georgia,'Times New Roman',Times,Serif;
+font-size:100%;
+color:green;
+}
+.link{
+    margin-top: -1%;
+    color: blue;
+}
+</style>
+</head>
+<body>
+ <center>
+<h4><font color=white>MANGALA JYOTHI VIDYASAMSTHE(R)</h4>
+<h3><font color=purple>J H PATEL INSTITUTE OF MANAGEMENT AND TECHNOLOGY DAVNAGERE.</h3>
+<table border=0 width=500 height=20>
+<tr>
+<td><marquee><b>BOOKS WORLD</marquee><br>
+</tr>
+</table>
+<div class="link">
+<table border=0 width=300>
+<tr  >
+<td><a href="adminmainpage.html" ><center><h1>ADMIN</center></h1></a></td>
+</tr>
+
+<tr >
+<td><a href="book.php" ><center><h1>STUDENTS</center></h1></a></th>
+</tr>
+</table>
+</div>
+<table border=0 width=800 height=50>
+<tr><td>
+<a href=""><b style="background-color:red;"><font color=black>HOME</a></td>
+</tr></table>
+</form>
+
+</body></html>
+
