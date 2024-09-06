@@ -1,4 +1,4 @@
-*Library Management System
+#Library Management System
 
 This is a simple Library Management System designed for Mangala Jyothi Vidyasamsthe and J H Patel Institute of Management and Technology Davanagere. The system allows administrators to manage books, student details, and track the issuance and return of books. It is built using HTML, CSS, PHP, and MySQL.
 
