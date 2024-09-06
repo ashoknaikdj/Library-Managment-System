@@ -11,6 +11,7 @@ Book Management: Add, update, and delete books in the library.
 Book Issuance: Issue books to students, track issuance and return dates.
 Book Return: Track and update book returns.
 View Records: View the list of issued and returned books.
+
 Table of Contents
 Features
 Installation
@@ -23,10 +24,10 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/library-management-system.git
+git clone https://github.com/ashoknaikdj)/library-management-system.git
 cd library-management-system
-Configure Database:
 
+Configure Database:
 Create a database in MySQL called lib.
 Import the provided SQL script into your MySQL database.
 Set up your development environment:
@@ -56,6 +57,7 @@ Return Book:
 Admin can process book returns and update records.
 View Issued and Returned Books:
 Admin can view lists of issued and returned books.
+
 File Structure
 bash
 Copy code
